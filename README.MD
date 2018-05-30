@@ -5,3 +5,4 @@
 
 *this* is an italic, and **this is bold**
 
+Type `nano "file name"` in order to go into the file and edit the file
