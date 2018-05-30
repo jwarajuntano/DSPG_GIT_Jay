@@ -8,3 +8,4 @@
 Type `nano "file name"` in order to go into the file and edit the file
 - `git add' will add a file to the staging area
 - `git commit`
+- Daniel went to fast, and I can't catch up
