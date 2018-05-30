@@ -3,6 +3,8 @@ title: "plots!"
 author: "Jay Warajuntano"
 date: "May 30, 2018"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
