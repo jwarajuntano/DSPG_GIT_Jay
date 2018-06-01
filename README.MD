@@ -18,3 +18,5 @@ Type `nano "file name"` in order to go into the file and edit the file
 - Daniel went to fast, and I can't catch up
 #Branching in Git
 
+#Branching in second_branch
+- Something have been changed
