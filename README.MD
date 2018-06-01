@@ -1,3 +1,12 @@
+#Edit IN CONFLICT
+
+#Edit IN MASTER 
+- Change something in the master
+- good luck
+
+
+
+
 # Intro to git for DSPG
 - `git init`: initialize a respostory
 	- only type this once, do not 'nest' your repositories
@@ -9,3 +18,7 @@ Type `nano "file name"` in order to go into the file and edit the file
 - `git add' will add a file to the staging area
 - `git commit`
 - Daniel went to fast, and I can't catch up
+#Branching in Git
+
+#Branching in second_branch
+- Something have been changed
