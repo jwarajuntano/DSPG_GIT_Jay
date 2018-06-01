@@ -1,4 +1,4 @@
-#Edit in master
+#Edit IN CONFLICT 
 - Change something in the master
 - good luck
 
