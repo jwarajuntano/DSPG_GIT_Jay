@@ -1,3 +1,10 @@
+#Edit in master
+- Change something in the master
+- good luck
+
+
+
+
 # Intro to git for DSPG
 - `git init`: initialize a respostory
 	- only type this once, do not 'nest' your repositories
